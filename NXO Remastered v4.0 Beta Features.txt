@@ -1,0 +1,281 @@
+// Starting Page
+Enabled Mods
+Favorite Mods : <color=yellow>LG While Enabling Mod</color>
+Safety Mods
+Room Mods
+Player Mods
+Movement Mods
+Tag Mods
+Visual Mods
+Soundboard
+Projectile Mods
+Sound Mods
+Nextbots
+Miscellaneous Mods
+Cosmetics (CS)
+Networked Mods
+Special Mods
+Admins Only
+
+// Settings
+Save Preferences
+Load Preferences
+Menu Settings
+Return
+Switch Hands
+Menu Theme : {ThemeDescription}
+Menu Font : {CurrentFontDescription}
+Click Sound : {ClickSoundDescription}
+Disconnect Button
+Wide Menu
+Advanced Title
+Toggle Notifications
+Clear Notifications
+Disable All Mods
+Player Settings
+Long Arms Length : {ArmLengthDescription}
+Movement Settings
+Platform Type : {PlatformType}
+Flight Speed : {FlySpeedDescription}
+Speed Boost : {SpeedDescription}
+Wall Walk Strength : {WalkWalkStrengthDescription}
+Grip To Speedboost
+Noclip Fly
+Trigger Platforms
+Visual Settings
+Tracer Positon : {TracerPosition}
+FPC FOV : {FOVDescription}
+Team Checked ESP
+Animated Guns
+Projectile Settings
+Projectile Speed : {ProjectileSpeedDescription}
+Projectile Type : {projectileNames[currentProjectile]}
+Projectile Color : {colorNames[currentColorIndex]}
+
+// Safety
+Anti Report
+Queue Anti Report
+Reconnect Anti Report
+Anti Moderator
+Fake Quest Menu (A)
+Fake Lag (A)
+No Finger Movement
+Disable Quit Box
+
+// Room
+Quit Game
+Disconnect
+Reconnect
+Join Random
+Disable Network Triggers
+Accept TOS
+Grab All IDs
+Grab Self ID
+Dump All RPCs
+
+// Player
+Ghost Monke (A)
+Invisible Monke (A)
+Ghost & Invisibility (A/B)
+Freeze Rig (A)
+Grab Rig (RG/LG)
+Long Arms
+Griddy (RT)
+Size Changer (RT/LT)
+Helicopter Monke (RT)
+Ascend Monke (RT)
+Spaz Monke (RT)
+Spaz Arms (RT)
+T-Pose (RT)
+Spin Head (RT)
+Flip Head (RT)
+Backwards Head (RT)
+Snap Neck
+Rig Gun
+Teleport Gun
+Chase Gun
+Orbit Gun
+Jumpscare Gun
+Copy Player Gun
+Fuck Player Gun
+Piggyback Player Gun
+
+// Movement
+Flight (A)
+Platforms (RG/LG)
+Frozone (RG/LG)
+Speed Boost
+Noclip (RT)
+Anti Gravity
+Low Gravity
+High Gravity
+Wall Walk (RG/LG)
+Spider Walk (RG/LG)
+Accel Flight (A)
+WASD Movement
+Freecam (LJ)
+Funny Run (RG/LG)
+Swim Speed Boost
+Dash Monke (A)
+Checkpoint (RG/RT)
+Slide Control
+Anti Slip
+Slippy Hands
+No Tag Freeze
+
+// Tag Related Mods
+Tag All (RT)
+Tag Gun
+Flick Tag (RT)
+Tag Aura (RT)
+Tag Self (RT)
+Un-Tag Self (RT)
+Anti Tag
+No Tag On Join
+
+// Visuals Mods
+3D Box ESP
+2D Box ESP
+Tracers
+Skeleton ESP
+Chams
+Beacons ESP
+Name Tags
+First Person
+Change Time
+FPS Boost
+Fuck Colors
+Bright Mode
+Dark Mode
+Rain Mode
+
+// Soundboard
+Disable All Sounds
+Loop Sounds
+Sound Effects
+Return
+UwU
+Vine Boom
+Fart Sound
+SHUT UP!
+Soundboard Spam
+Ghost Trolling
+Return
+Daisy 09
+RUN RUN RUN
+Memes
+Return
+Fuck You Kid Your Adopted
+Locked In Ninja
+Low Taper Fade AliA
+Do Me A Favor Stfu
+Songs
+Return
+Nick Eh 30 Intro
+English Or Spanish
+NSFW Sounds
+Return
+You Stupid Ni-
+What Are You Doing Stepbro
+Best Brother
+Im Bout To Blow
+
+// Projectile Mods
+Projectile Spam (RG)
+Shoot Projectiles (RG)
+Projectile Gun
+Urine (RG)
+Semen (RG)
+Feces (RG)
+Vomit (RG)
+Spit (RG)
+
+// Sound Mods
+Random Sound Spam (RT)
+Annoying Sound Spam (RT)
+Boop Player
+Slap Player
+Glass Sound Spam (RT)
+Metal Sound Spam (RT)
+Pop Sound Spam (RT)
+Squeaky Sound Spam (RT)
+Crystal Sound Spam (RT)
+Turkey Sound Spam (RT)
+Frog Sound Spam (RT)
+AK-47 Sound Spam (RT)
+Wolf Sound Spam (RT)
+Cat Sound Spam (RT)
+Bee Sound Spam (RT)
+
+// Miscellaneous
+Web Shooters (RG/LG)
+Draw Mod (RG/LG)
+Place Bomb (RG/RT)
+Punch Mod
+No Name
+Solid Water
+Disable Water
+Air Swim
+Water Bender (RG/LG)
+Splash Gun
+Water Barrage (RG/LG)
+Splash Aura (RT)
+Splash Self (RT)
+Disable Leaves
+
+// Cosmetics
+Body
+Return
+Unreleased Sweater
+Drumset
+Box Body
+Penguin Suit
+Muscular Body (1)
+Muscular Body (2)
+Flamingo Floaty
+Duck Floaty
+Mermaid
+Santa Body
+Snowman
+Cozy Sweater
+Gorilla Tag Shirt
+I <3 GT Shirt
+Black Tuxedo
+White Tuxedo
+Knight Suit
+Orange Jacket
+Music Shirt
+DJ Set
+Xylophone
+Hands
+Return
+Gloves (1)
+Gloves (2)
+Gloves (3)
+Gloves (4)
+Wolf Claws
+Goblin Hands
+Knight Gloves
+Rubber Gloves
+Badges
+Return
+Admin Badge
+Illustrator Badge
+Finger Painter Bage
+Early Access Badge
+
+// Networked
+Dick Mod
+Block Shape : {blockshapeNames[currentBlockShape]}
+Networked Blocks (RG/Big)
+Networked Blocks (RG/Medium)
+Networked Blocks (RG/Small)
+
+// Special
+Spaz All Ropes (RT)
+Spaz Rope Gun
+Freeze All Ropes (RT)
+Freeze Rope Gun
+All Ropes To Self (RT)
+All Ropes To Gun
+All Ropes To Player Gun
